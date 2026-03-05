@@ -11,8 +11,3 @@
 - Composants réutilisables + responsive (grid/cards)
 - Optimisation : `useMemo` (filtre + calculs), état minimal
 - Favoris en `localStorage`
-
-
-cd Hackathon/footstats
-npm install
-npm run dev
