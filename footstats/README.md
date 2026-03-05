@@ -1,7 +1,3 @@
-# FootStats
-
-App Next.js pour **rechercher** et **comparer 2 joueurs** (stats + score) et afficher le meilleur.
-
 ## Versions
 - Next.js **16.1.6**
 - React **19.2.3**
