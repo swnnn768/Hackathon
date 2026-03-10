@@ -1,4 +1,4 @@
-# FootStats
+# FootStats ( par Pape Bathily, Sawwan Akrour et Xavier )
 
 App Next.js (TypeScript) pour **rechercher** et **comparer 2 joueurs de foot** à partir de leurs stats (vitesse, tir, passe, dribble, physique, défense) et afficher le **meilleur** via un score pondéré.
 
